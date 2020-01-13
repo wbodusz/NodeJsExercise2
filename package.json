@@ -1,0 +1,26 @@
+{
+  "name": "nodejsexercise2",
+  "version": "1.0.0",
+  "description": "Exercise 2 for nodejs school",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbodusz/NodeJsExercise2.git"
+  },
+  "author": "WB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbodusz/NodeJsExercise2/issues"
+  },
+  "homepage": "https://github.com/wbodusz/NodeJsExercise2#readme",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}
